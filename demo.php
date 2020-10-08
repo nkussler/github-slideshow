@@ -1,4 +1,5 @@
 <?php
 	function demo(){
-		echo "Hello world";
+		echo "demo";
+		echo "demo2";
 	}
